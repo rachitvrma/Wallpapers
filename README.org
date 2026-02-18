@@ -1,0 +1,5 @@
+#+title: Wallpapers to Go With Arch/NixOS
+#+description: These are wallpapers I use with arch and nixos
+* NOTE:
+
+Most of these wallpapers are taken from free sources and other github repos. I use them in my NixOS setup and (maybe) some Arch setups.
